@@ -4,6 +4,17 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Peter for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Peter] for the Lighthouse Labs Web Development Bootcamp.
 
-Taken by Peter(https://github.com/plonsdale1/BlankREADME)
+Taken by [Peter](https://github.com/plonsdale1/BlankREADME)
+
+# Table Of Contents
+* week one
+* day one
+
+1. item one
+2. item two
+3. item three
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
